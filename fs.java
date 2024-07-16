@@ -4,6 +4,7 @@ public hello.java
 	{
 		System.out.println("welcome");
 		System.out.println("tumkur");
+		System.out.println("spt");
 	}
 }
 
